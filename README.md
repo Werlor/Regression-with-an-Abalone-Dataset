@@ -1,5 +1,5 @@
 # Regression-with-an-Abalone-Dataset
-## Competition Kaggle
+Competition Kaggle
 ## Автор: Мальков Вячеслав Анатольевич
 
 ## Цель этого соревнования - предсказать возраст морского ушка на основе различных физических измерений.
