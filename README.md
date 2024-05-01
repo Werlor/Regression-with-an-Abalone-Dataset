@@ -13,3 +13,5 @@ Competition Kaggle
 train.csv - обучающий набор данных; Rings - целочисленный целевой
 тест.csv - тестовый набор данных; ваша цель - предсказать значение Rings для каждой строки
 sample_submission.csv - файл для отправки образца в правильном формате
+
+![Снимок экрана (235)](https://github.com/Werlor/Regression-with-an-Abalone-Dataset/assets/124266839/d6805128-8565-481a-a1b8-43f48ce35659)
